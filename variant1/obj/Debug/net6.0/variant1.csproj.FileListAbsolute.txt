@@ -1,0 +1,15 @@
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\bin\Debug\net6.0\variant1.exe
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\bin\Debug\net6.0\variant1.deps.json
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\bin\Debug\net6.0\variant1.runtimeconfig.json
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\bin\Debug\net6.0\variant1.dll
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\bin\Debug\net6.0\variant1.pdb
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\variant1.csproj.AssemblyReference.cache
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\variant1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\variant1.AssemblyInfoInputs.cache
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\variant1.AssemblyInfo.cs
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\variant1.csproj.CoreCompileInputs.cache
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\variant1.dll
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\refint\variant1.dll
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\variant1.pdb
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\variant1.genruntimeconfig.cache
+C:\Users\SorokinaAA\Desktop\Final_Work\variant1\obj\Debug\net6.0\ref\variant1.dll
